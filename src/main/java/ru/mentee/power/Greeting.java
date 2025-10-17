@@ -5,6 +5,6 @@ public class Greeting {
         return "Привет, " + name + "!";
     }
     public static void main(String[] args) {
-        System.out.println(getGreeting("Java разработчик"));
+        System.out.println(getGreeting("C++ разработчик"));
     }
 }
