@@ -1,5 +1,5 @@
-# My Second Java Project
-**Это мой второй проект на Java**
+# My First Java Project
+**Это мой первый проект на Java**
 
 ---
 
