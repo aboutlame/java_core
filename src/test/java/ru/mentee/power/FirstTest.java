@@ -1,6 +1,7 @@
 package ru.mentee.power;
 
 import org.junit.jupiter.api.Test;
+import ru.mentee.power.variables.First;
 
 import static org.junit.jupiter.api.Assertions.*;
 
